@@ -76,7 +76,7 @@ Is Masca missing some crucial features? For new features and other enhancements,
 
 # Rebrand
 
-Masca was previously called SSI Snap; thus, the old name can still appear in some places. You can also find earlier versions of the Snap under the SSI Snap packages.
+Masca was previously called SSI Snap thus, the old name can still appear in some places. You can also find earlier versions of the Snap under the SSI Snap packages
 
 # Licenses
 
